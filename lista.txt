@@ -1,0 +1,47 @@
+Suspeitos
+	Pessoa
+	Cor do peão
+
+	Sargento - Bigode
+	Amarelo
+
+	Florista - Dona Branca
+	Branco
+	
+	Chef de Cozinha - Tony Gourmet
+	Marrom
+	
+	Médica - Dona Violeta
+	Rosa
+
+	Dançarina - Srta. Rosa
+	Vermelho
+
+	Coveiro - Sérgio Soturno
+	Preto
+	
+	Advogado - Sr. Marinho
+	Verde
+
+Armas
+	Espingarda
+	Pá
+	Pé de Cabra
+	Tesoura
+	Arma Química
+	Veneno
+	Soco Inglês
+	Faca
+
+Locais
+	Prefeitura
+	Restaurante
+	Floricultura
+	Boate
+	Hospital
+	Mansão
+	Cemitério
+	Praça
+	Hotel
+	Banco 
+	Estação de Trem
